@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+.header {
+    color: black;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0px;
+    font-size: 40px;
+}
+
+.header img {
+    border-radius: 20px;
+}
+
+.skills {
+    color: black;
+}
